@@ -5,7 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build-prod": "ng build --prod",
+    "build-prod": "ng build  --base-href /home-money --deploy-url /home-money",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -29,7 +29,7 @@
     "d3": "^4.9.1",
     "moment": "^2.18.1",
     "rxjs": "^5.1.0",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.8.14"
   },
   "devDependencies": {
     "@angular/cli": "1.0.1",

@@ -5,6 +5,12 @@
       "email": "wfm@mail.ru",
       "password": "12345678",
       "name": "Администратор"
+    },
+    {
+      "id": 2,
+      "email": "wanderbit@mail.ru",
+      "password": "12345678",
+      "name": "Мороз Александр"
     }
   ],
   "bill": {
@@ -26,6 +32,11 @@
       "id": 3,
       "name": "Машина",
       "capacity": 7000
+    },
+    {
+      "name": "test",
+      "capacity": 1000,
+      "id": 4
     }
   ],
   "events": [
