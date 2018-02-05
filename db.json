@@ -8,13 +8,13 @@
     }
   ],
   "bill": {
-    "value": 94602,
+    "value": 94600,
     "currency": "RUB"
   },
   "categories": [
     {
       "name": "Дом",
-      "capacity": 10000,
+      "capacity": 15000,
       "id": 1
     },
     {

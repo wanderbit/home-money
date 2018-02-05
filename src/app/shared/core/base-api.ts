@@ -4,7 +4,8 @@ import { Observable } from 'rxjs/Observable';
 
 @Injectable()
 export class BaseApi {
-  private baseUrl = 'http://localhost:3000/';
+
+  private baseUrl = 'http://my-json-server.typicode.com/wanderbit/home-money/';
 
   constructor(public http: Http) {
   }
