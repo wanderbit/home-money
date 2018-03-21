@@ -11,6 +11,12 @@
       "email": "wanderbit@mail.ru",
       "password": "12345678",
       "name": "Мороз Александр"
+    },
+    {
+      "id": 3,
+      "email": "1",
+      "password": "1",
+      "name": "Админ тест"
     }
   ],
   "bill": {
